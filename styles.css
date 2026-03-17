@@ -1,0 +1,39 @@
+styles.css
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.info-personal{
+    margin-left: auto;
+}
+
+.data{
+    position: absolute;
+    top: 10px;
+    left: 340px;
+}
+
+.parrafos{
+    max-width: 450px;
+}
+
+.listas{
+    max-width: 450px;
+}
+
+.recuadro{
+    border: 2px solid black; 
+    padding: 10px;
+    height: 1123px;
+    width: 794px;
+}
+
+img{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
